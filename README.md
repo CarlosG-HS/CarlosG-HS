@@ -1,5 +1,5 @@
-### Hi there 👋
-
+### Hola Soy carlos, el nuevo desarrollador de Happy Sleep 👋
+-Desarrollador de software y gestion TIC´s
 <!--
 **CarlosG-HS/CarlosG-HS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

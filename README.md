@@ -23,14 +23,17 @@
   &nbsp;
   <img src="https://github.com/CarlosG-HS/CarlosG-HS/assets/147439083/87759ac7-f07f-40b3-9dd3-d9f4c2e6f31a" title="Git hub" width="50">
   &nbsp;
-  <img src="https://github.com/CarlosG-HS/CarlosG-HS/assets/147439083/6b760e89-6b4a-4aec-a1af-45a20ba46a2a" title="Java Script" width="50">
+  <img src="https://github.com/CarlosG-HS/CarlosG-HS/assets/147439083/6b760e89-6b4a-4aec-a1af-45a20ba46a2a" title="Jquery" width="50">
+   &nbsp;
+  <img src="https://github.com/CarlosG-HS/CarlosG-HS/assets/147439083/3b7b5ff1-3fcb-4911-9491-ef2e4b865a1c" title="Figma" width="50">
 </div>
+
 
   ## Frontend
 <div>
   <img src="https://github.com/CarlosG-HS/CarlosG-HS/assets/147439083/2a2db869-12cb-4278-b5eb-3dde3e619f32" title="Java Script" width="50">
   &nbsp;
-  <img src="https://github.com/CarlosG-HS/CarlosG-HS/assets/147439083/6b760e89-6b4a-4aec-a1af-45a20ba46a2a" title="Java Script" width="50">
+  <img src="https://github.com/CarlosG-HS/CarlosG-HS/assets/147439083/6b760e89-6b4a-4aec-a1af-45a20ba46a2a" title="Jquery" width="50">
   &nbsp;
   <img src="https://github.com/CarlosG-HS/CarlosG-HS/assets/147439083/4272654c-46a7-404e-b72b-f6c4b0fa0cbf" title="CSS" width="50">
   &nbsp;
@@ -41,7 +44,7 @@
 <div>
   <img src="https://github.com/CarlosG-HS/CarlosG-HS/assets/147439083/2a2db869-12cb-4278-b5eb-3dde3e619f32" title="Java Script" width="50">
   &nbsp;
-  <img src="https://github.com/CarlosG-HS/CarlosG-HS/assets/147439083/6b760e89-6b4a-4aec-a1af-45a20ba46a2a" title="Java Script" width="50">
+  <img src="https://github.com/CarlosG-HS/CarlosG-HS/assets/147439083/6b760e89-6b4a-4aec-a1af-45a20ba46a2a" title="Jquery" width="50">
   &nbsp;
   <img src="https://github.com/CarlosG-HS/CarlosG-HS/assets/147439083/134c9e3b-4ce5-422d-945f-bc18435ec741" title="Node.js" width="50">
   &nbsp;
@@ -59,6 +62,8 @@
 ## Herramientas adicionales
 <div>
   <img src="https://github.com/CarlosG-HS/CarlosG-HS/assets/147439083/87759ac7-f07f-40b3-9dd3-d9f4c2e6f31a" title="Git hub" width="50">
+   &nbsp;
+  <img src="https://github.com/CarlosG-HS/CarlosG-HS/assets/147439083/3b7b5ff1-3fcb-4911-9491-ef2e4b865a1c" title="Figma" width="50">
 </div>
 
 
